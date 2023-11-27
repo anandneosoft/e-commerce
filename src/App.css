@@ -27,6 +27,14 @@
 .App-link {
   color: #61dafb;
 }
+.float-right {
+  float: right;
+}
+.add-product-form {
+  width: 100%;
+  max-width: 600px;
+  margin: 10px auto;
+}
 
 @keyframes App-logo-spin {
   from {
